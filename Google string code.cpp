@@ -9,7 +9,7 @@ int main()
 	for(int i=1;i<length;i++)
 	{   if(s[i]>=s[i-1])
 	{
-		while(s[i]>=s[i-1] && i<length)
+		while(s[i]>=s[i-1] && i<length)    //for the increasing order
 		{
 			i++;
 		}
@@ -17,7 +17,7 @@ int main()
 	}
 	else
 	{
-		while(s[i]<=s[i-1] && i<length)
+		while(s[i]<=s[i-1] && i<length)       //for decreasing order
        {
           i++;	
 	   }
