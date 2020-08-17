@@ -8,16 +8,16 @@ The first and only line contains string S.<br>
 **OUTPUT FORMAT** <br>
 Print an interger denoting the required answer.<br>
 **Sample Input 1** <br>
-abcdcba <br>                        
+abcdcba <br>
 **Sample output 1**<br>
 2 <br>
 **Explanation**  <br>
 S can be partitioned into 'abc' and 'dcba'.Here,the first one is non-decreasing and the second one is non-increaing .<br>
-**sample Input 2**<br>
+**Sample Input 2**<br>
 gfcbdhdd<br>
-**Sample output2*<br>
+**Sample output2**<br>
 3<br>
 **Sample Input 3** <br>
-hheaadbdgdggd   <br>                        
-**Sample output 3** <br>
-25<br>
+hheaadbdgdggd                                            
+**Sample output 3** <br>                                                                                      
+25<br>                                                                        
