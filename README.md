@@ -20,4 +20,4 @@ gfcbdhdd<br>
 **Sample Input 3** <br>
 hheaadbdgdggd                                            
 **Sample output 3** <br>                                                                                      
-25<br>                                                                        
+5<br>                                                                        
